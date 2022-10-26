@@ -5,34 +5,34 @@ os = "macos"
 
     [[GAP_pkg_datastructures.download]]
     sha256 = "be21e8b10f4d6289af854ad2ff8921198a9c3d49826ddcbcf1f8ea69148214a4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.700+1/GAP_pkg_datastructures.v0.200.700.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.701+0/GAP_pkg_datastructures.v0.200.701.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_datastructures]]
 arch = "aarch64"
-git-tree-sha1 = "c3f3dd7d3a8a5d7ea953519bfe03d5d0b705abb5"
+git-tree-sha1 = "92cee16fd1f2039c33217861a302a65c2dcbd39e"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_datastructures.download]]
-    sha256 = "30764fcf206f42b4673872b78a5e2266641a76030c7c7e7fe81c0ff78aa85c32"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.700+1/GAP_pkg_datastructures.v0.200.700.aarch64-linux-gnu.tar.gz"
+    sha256 = "a0e5f71997f3396233e32ff58ae63d4d4595346c9f7870d8271ed1e1a40c5d98"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.701+0/GAP_pkg_datastructures.v0.200.701.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_datastructures]]
 arch = "aarch64"
-git-tree-sha1 = "5bb12a864a72186cbda85df21688018a0e45a6b3"
+git-tree-sha1 = "d4d6698b2cf6819cbb599ab6cdcb9ebc0cd6046a"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_datastructures.download]]
-    sha256 = "eec4fc476b8a20f629475666bb29d69a15dfebad752cbeb497a4545454039f96"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.700+1/GAP_pkg_datastructures.v0.200.700.aarch64-linux-musl.tar.gz"
+    sha256 = "9fef8aef6ca45e21eb359e4db99a4dd818d4f34ddd23926b07be3c713fbb3658"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.701+0/GAP_pkg_datastructures.v0.200.701.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_datastructures]]
 arch = "powerpc64le"
-git-tree-sha1 = "160080d21b9cf0e00ec35c219ef7616858e9590e"
+git-tree-sha1 = "53be2861a2d3c1d9296d029106568e93d209d0af"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_datastructures.download]]
-    sha256 = "08302049d782f3d44772d13ba7a19e9bb6995c253df079707b9350a467441090"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.700+1/GAP_pkg_datastructures.v0.200.700.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d9d24610cebb3895e7b9ac222c6bd25e764e26ce1391271d50ebe7431adb64dc"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.701+0/GAP_pkg_datastructures.v0.200.701.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_datastructures]]
 arch = "x86_64"
 git-tree-sha1 = "3fe9bcc782a087307e051002b55e4022257f29d8"
@@ -40,30 +40,30 @@ os = "macos"
 
     [[GAP_pkg_datastructures.download]]
     sha256 = "bf8e5a118584583ba095c012c82ea1fbf36249c3e0e85f2cb8dd3e47f6c714f0"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.700+1/GAP_pkg_datastructures.v0.200.700.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.701+0/GAP_pkg_datastructures.v0.200.701.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_datastructures]]
 arch = "x86_64"
-git-tree-sha1 = "4715d7b594ba7eeecedb557992a9a33c3df4d236"
+git-tree-sha1 = "fd414e687fec341e082aea7cb093d00c2b57444f"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_datastructures.download]]
-    sha256 = "c931110b715315c9ef596c16182a901428824084e554bddac29727aff625b41c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.700+1/GAP_pkg_datastructures.v0.200.700.x86_64-linux-gnu.tar.gz"
+    sha256 = "ea6f535a284cb4e347367424df1ffbd2edbe7ae91a117fcdfc0cb1c794be5ea9"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.701+0/GAP_pkg_datastructures.v0.200.701.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_datastructures]]
 arch = "x86_64"
-git-tree-sha1 = "bdcdc31748bf385774539cf861a44d794e3ca7db"
+git-tree-sha1 = "7002f8243587179a322eeb24220127a606b9fb47"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_datastructures.download]]
-    sha256 = "00b7f6bed4d284c23f3f3347959e6d34cde4d59199490191d054e9ee449ac997"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.700+1/GAP_pkg_datastructures.v0.200.700.x86_64-linux-musl.tar.gz"
+    sha256 = "1a6ee1fdacc6ebab05fce9a0e6c2554f2eac2923bcc8ba6d48f9c9a26c10c759"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.701+0/GAP_pkg_datastructures.v0.200.701.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_datastructures]]
 arch = "x86_64"
-git-tree-sha1 = "a725f032bb360b23151ef790b9be2c4ab3adbc1a"
+git-tree-sha1 = "d739f34858220e2e6170c9753d7024b8752da88e"
 os = "freebsd"
 
     [[GAP_pkg_datastructures.download]]
-    sha256 = "6eeda36729033907be17c8237b6d59f4bff67e1875f5093b568e879015590a1d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.700+1/GAP_pkg_datastructures.v0.200.700.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "90cfe3eff480c26a438da9da5df1befc9a2fd0296b35171cd9412b69cb762b8e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_datastructures_jll.jl/releases/download/GAP_pkg_datastructures-v0.200.701+0/GAP_pkg_datastructures.v0.200.701.x86_64-unknown-freebsd.tar.gz"
